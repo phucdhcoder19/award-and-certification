@@ -32,5 +32,5 @@ A curated collection of my academic honors and professional certifications in so
 
 ## 🔗 Connect with me
 
-- 📧 Email: yourname@example.com
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 📧 Email: dhphuc1406@gmi
+- 🌐 Portfolio: [your-portfolio.com](https://portfolio-react-one-orpin-14.vercel.app/)
