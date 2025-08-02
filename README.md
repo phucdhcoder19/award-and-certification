@@ -33,4 +33,4 @@ A curated collection of my academic honors and professional certifications in so
 ## 🔗 Connect with me
 
 - 📧 Email: dhphuc1406@gmi
-- 🌐 Portfolio: [your-portfolio.com](https://portfolio-react-one-orpin-14.vercel.app/)
+- 🌐 Portfolio: [hoangphuc](https://portfolio-react-one-orpin-14.vercel.app/)
